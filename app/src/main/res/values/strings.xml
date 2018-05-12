@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Carly\'s Cafe</string>
+
+    <!--Title-->
+    <string name="Title">Carly\'s Cafe</string>
+
+    <!--Subtitle-->
+    <string name="Subtitle">Home of your fried food favorites!</string>
+
+    <!--Address-->
+    <string name="Address">123 Main Street, Anytown, U.S.A.</string>
+
+    <!--Phone-->
+    <string name="Phone">#999-123-4567</string>
+
+    <!--Hours of Operation-->
+    <string name="Hours">Monday - Saturday: 11am - 9pm</string>
+    <string name="Sunday">Closed Sunday</string>
+
+    <!--Description-->
+    <string name="Description"> Carly\'s Cafe specializes in all of your fried food favorites, including fried pickles, fried chicken, and our customer favorite, fried lumpia! Check out our full menu of fried desserts, too!</string>
+
+    <!--Email-->
+    <string name="Email">carlyscafe@anyemail.com</string>
+
+</resources>
